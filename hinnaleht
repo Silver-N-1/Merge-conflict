@@ -2,11 +2,17 @@
 <html>
 
 <head>
-    <title>Pealeht</title>
+    <title>Hinnaleht</title>
 </head>
 
 <body>
+    <div class="Hinnakiri">
+        <h2> Siin on kõik meie hinnad</h2>
+        <ul>
+            <li> Jalamažaas </li>
+        </ul>
 
+    </div>
 </body>
 
 </html>
